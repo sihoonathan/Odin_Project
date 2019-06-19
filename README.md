@@ -1,5 +1,7 @@
 # Google Homepage
 
+![Screenshot](assets/img/screenshot.png)
+
 ## Motivation
 
 My First Odin Project 
