@@ -1,5 +1,7 @@
 # Google Homepage
 
+### Google Homeview - [View in Browser](https://sihoonathan.github.io/google-homepage/)
+
 ![Screenshot](assets/img/screenshot.png)
 
 #
