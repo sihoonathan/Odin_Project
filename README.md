@@ -5,5 +5,5 @@
 ![Screenshot](assets/img/screenshot.png)
 
 #
-This is a reproduction of google homepage view
+This is a reproduction of google homepage view with my own html/css implementations.
 
